@@ -1,5 +1,6 @@
 # 🏏 IPL Score Predictor
 
+🚀 **Live Demo:** https://ipl-score-predictor-mwzfkvcke36kk87jwjkqyy.streamlit.app
 <div align="center">
 
 ![IPL Score Predictor Banner](https://img.shields.io/badge/IPL-Score%20Predictor-blue?style=for-the-badge&logo=cricket&logoColor=white)
