@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# ── Load saved model and encoders ────────────────────────
+#  Load saved model and encoder
 # This is pickle.load() - opposite of pickle.dump()
 # We're loading the trained model from disk back into RAM
 with open('model.pkl', 'rb') as f:
@@ -59,7 +59,7 @@ with col5:
 
 st.divider()
 
-# ── Predict button ────────────────────────────────────────
+# Predict button 
 if st.button("🔮 Predict Final Score", use_container_width=True):
 
     # Validate - batting and bowling team can't be same
